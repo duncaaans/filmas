@@ -72,7 +72,7 @@ src/
 git clone https://github.com/USERNAME/REPO-NAME.git
 
 2. Atver projekta mapi:
-cd REPO-NAME
+cd cinenest
 
 3. Instalē atkarības:
 npm install
